@@ -1,13 +1,17 @@
 body {
     display: flex;
     flex-direction:column;
-    background-color: papayawhip;
+    background-color: rgb(199, 195, 189);
     border: teal;
     border-style:solid;
     max-width: 1250px;
     padding: 40px;
     margin: 0 auto;
     }
+a {
+    text-decoration: none;
+    color: darkblue;
+}
 .nav{
     display: flex;
     justify-content: space-between;
@@ -29,12 +33,11 @@ body {
 .me1{
     float: left;
     margin-right: 15px;
-    border-radius: 5px;
-    background-color: rgb(238, 155, 238);
+    border-radius: 15px;
+    background-color: rgb(122, 59, 122);
     padding: 1em;
     }
-.h1{
-    
+.h1{   
     color: #a10b38;
     font-size: 50px;
     font-style: italic;
