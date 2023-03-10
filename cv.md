@@ -17,6 +17,8 @@ I am 37 y.o. I graduated from BSEU as a marketer in 2010. My first job was as a 
 * HTML
 * CSS
 * Git
+* JS
+* TS
 
 ## Education
 
