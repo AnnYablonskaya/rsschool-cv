@@ -24,7 +24,7 @@ I am 37 y.o. I graduated from BSEU as a marketer in 2010. My first job was as a 
 
 * 2006-2010 BSEU
 * English courses in Srteamline in 2021
-* RSSchool 2021 - 2022
+* RSSchool 2021 - 2023
 
 ## languages
 
