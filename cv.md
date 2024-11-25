@@ -18,7 +18,7 @@ My Name is Ann. I graduated from BSEU as a marketer in 2010. My first job was as
 * CSS
 * Git
 * JS
-* TS
+
 
 ## Education
 
