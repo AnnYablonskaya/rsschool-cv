@@ -29,4 +29,4 @@ I am 39 y.o. I graduated from BSEU as a marketer in 2010. My first job was as a 
 ## languages
 
 * Russian - native
-* English - A2
+* English - B1
